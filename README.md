@@ -1,28 +1,31 @@
 ## Hi! 🏔️
 
-I'm Francesco, a geotechnical engineer from Lima, Peru, working in the mining industry. I specialize in numerical modeling, spatial variability, and soil behavior — especially in complex systems like tailings dams and heap leach pads.
+I'm Francesco, a geotechnical engineer from Lima, Peru, specializing in numerical modeling, spatial variability, and soil behavior — particularly in mining geotechnics and complex systems like tailings dams and heap leach pads.
 
-Right now, I'm preparing for a PhD in Geotechnical Engineering, and continuing to explore new ways to blend research, programming, and field practice.
+My core interest is advancing geotechnical research and engineering practice through computational methods. While geotechnics is my profession and passion, I also deeply enjoy programming as a creative and technical hobby. I see code as a powerful companion in my work — not as a career path on its own.
+
+Right now, I'm preparing for a PhD in Geotechnical Engineering and focusing on integrating modern programming tools into my research workflows.
 
 ---
 
-### 🛠️ What I'm Working On
+### 🛠️ Current Projects
 
 - 📊 Modeling spatial variability in leached ore using **SCPTu** data and geostatistics.
-- 🦀 Building [`cone`](https://github.com/ffrancoa/cone), a command-line tool in [**Rust**](https://www.rust-lang.org/) to explore CSV/XLSX files using [`polars`](https://pola.rs/).
-- 📈 Generating anisotropic random fields with [**Julia**](https://julialang.org/).
-- 🧵 Learning [**Haskell**](https://www.haskell.org/) to sharpen my understanding of functional programming and abstraction.
+- 🦀 Developing [`cone`](https://github.com/ffrancoa/cone), a command-line tool in [**Rust**](https://www.rust-lang.org/) for exploring SCPTu profiles from CSV/XLSX files.
+- 📈 Generating anisotropic random fields for spatial modeling with [**Julia**](https://julialang.org/).
+- 🧩 Writing constitutive models for FLAC using **C++**, with experiments in **Rust FFI**.
 
 ---
 
-### 🧰 Tools & Languages I Use Often
+### 🧰 Tools I Work With
 
-- **Programming:** Rust, Julia and Haskell (also Python when it is needed)
-- **Geotechical software:** Slide2, RS2 and FLAC 8.1  
+- **Programming:** Rust and Julia (also C/C++ and Python when needed)
+- **Geotechnical software:** FLAC2D, RS2, Slide2
+- **Topics:** constitutive modeling, random fields, seismic response analysis, numerical simulation
 
 ---
 
-### 🌐 Where to Find Me
+### 🌐 Find Me
 
 - Website → [ffrancoa.com](https://ffrancoa.com)  
 - Blog (coming soon) → [blog.ffrancoa.com](https://blog.ffrancoa.com)  
