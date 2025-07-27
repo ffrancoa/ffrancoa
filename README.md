@@ -19,7 +19,7 @@ Right now, I'm preparing for a PhD in Geotechnical Engineering and focusing on i
 
 ### 🧰 Tools I Work With
 
-- **Programming:** Primarily Rust and Julia (C++ and Python when required)
+- **Programming:** Python, Rust and Zig.
 - **Geotechnical software:** FLAC2D, RS2, Slide2
 - **Topics:** constitutive modeling, random fields, soil behavior, numerical simulation
 
