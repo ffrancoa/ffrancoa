@@ -26,8 +26,7 @@ Right now, I'm preparing for a PhD in Geotechnical Engineering and focusing on i
 
 ### 🌐 Find Me
 
-- Website → [ffrancoa.com](https://ffrancoa.com)  
-- Blog (coming soon) → [ffrancoa.github.io/blog](https://blog.ffrancoa.com](https://ffrancoa.github.io/blog/)  
+- Blog → [ffrancoa.github.io/blog](https://ffrancoa.github.io/blog/)  
 - LinkedIn → [linkedin.com/in/ffrancoa](https://www.linkedin.com/in/ffrancoa/)  
 - GitHub → [@ffrancoa](https://github.com/ffrancoa)  
 
