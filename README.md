@@ -11,7 +11,7 @@ Right now, I'm preparing for a PhD in Geotechnical Engineering and focusing on i
 ### 🛠️ Current Projects
 
 - 📊 Modeling spatial variability in leached ore using **SCPTu** data and geostatistics.
-- 🦀 Developing [`cone`](https://github.com/ffrancoa/conic), a Python library that uses [**Rust**](https://www.rust-lang.org/) for exploring SCPTu profiles from CSV/XLSX files.
+- 🦀 Developing [`conic`](https://github.com/ffrancoa/conic), a Python library that uses [**Rust**](https://www.rust-lang.org/) for exploring SCPTu profiles from CSV/XLSX files.
 - 📈 Generating anisotropic random fields for spatial modeling with [**Julia**](https://julialang.org/).
 
 ---
@@ -21,14 +21,6 @@ Right now, I'm preparing for a PhD in Geotechnical Engineering and focusing on i
 - **Programming:** Python and Rust (I like Fortran too!).
 - **Geotechnical software:** FLAC2D, RS2, Slide2
 - **Topics:** constitutive modeling, random fields, soil behavior, numerical simulation
-
----
-
-### 🌐 Find Me
-
-- Blog → [ffrancoa.github.io/blog](https://ffrancoa.github.io/blog/)  
-- LinkedIn → [linkedin.com/in/ffrancoa](https://www.linkedin.com/in/ffrancoa/)  
-- GitHub → [@ffrancoa](https://github.com/ffrancoa)  
 
 ---
 
